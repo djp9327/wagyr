@@ -1,1 +1,2 @@
 wagyr/Django/wagyr_project/static/* linguist-vendored
+*.js linguist-language=Python
